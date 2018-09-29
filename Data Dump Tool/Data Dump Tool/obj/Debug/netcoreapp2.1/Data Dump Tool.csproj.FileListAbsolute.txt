@@ -1,0 +1,11 @@
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\bin\Debug\netcoreapp2.1\Data Dump Tool.deps.json
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\bin\Debug\netcoreapp2.1\Data Dump Tool.runtimeconfig.json
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\bin\Debug\netcoreapp2.1\Data Dump Tool.runtimeconfig.dev.json
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\bin\Debug\netcoreapp2.1\Data Dump Tool.dll
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\bin\Debug\netcoreapp2.1\Data Dump Tool.pdb
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.csprojAssemblyReference.cache
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.csproj.CoreCompileInputs.cache
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.AssemblyInfoInputs.cache
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.AssemblyInfo.cs
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.dll
+C:\Users\rkrishnan\source\repos\Data Dump Tool\Data Dump Tool\obj\Debug\netcoreapp2.1\Data Dump Tool.pdb
