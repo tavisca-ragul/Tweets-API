@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "e78a5dd05aa2d01ee7478055cdadf40b8e1ab138"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Data Dump Tool/1.0.0": {
+        "dependencies": {
+          "Aerospike.Client": "3.6.6",
+          "CsvHelper": "7.1.1",
+          "CsvTextFieldParser": "1.1.1",
+          "Microsoft.VisualBasic": "10.3.0"
+        },
+        "runtime": {
+          "Data Dump Tool.dll": {}
+        }
+      },
+      "Aerospike.Client/3.6.6": {
+        "runtime": {
+          "lib/netstandard/AerospikeClient.dll": {
+            "assemblyVersion": "3.6.6.0",
+            "fileVersion": "3.6.6.0"
+          }
+        }
+      },
+      "CsvHelper/7.1.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.4.0",
+          "System.Reflection.TypeExtensions": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CsvHelper.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "CsvTextFieldParser/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/CsvTextFieldParser.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.4.0": {},
+      "Microsoft.VisualBasic/10.3.0": {},
+      "System.Reflection.TypeExtensions/4.4.0": {}
+    }
+  },
+  "libraries": {
+    "Data Dump Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aerospike.Client/3.6.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZmXyEX6/Iwu5FuGbsfz9uX6Yu9ah8oxd7KQ6PRMmUhFYg7LGWZxTborsw2eCxpiDwbEwsjLrJoaZvssSLDMgfg==",
+      "path": "aerospike.client/3.6.6",
+      "hashPath": "aerospike.client.3.6.6.nupkg.sha512"
+    },
+    "CsvHelper/7.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-15swT2vsneV4s8gk2eozKvbVe2K5PMmU/NHG/fyuiSNbgtMuzSZuo99tgM63IQMO09igY3lMB2i9NQCcZUfsJQ==",
+      "path": "csvhelper/7.1.1",
+      "hashPath": "csvhelper.7.1.1.nupkg.sha512"
+    },
+    "CsvTextFieldParser/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wg9gBmP9gvtO4IYCyIjPeGynDlCYf6jik1uX/7crtqpqdtxrQboJshiQ6iGFVAH6pkrJkTGdysXxI3rIsml22w==",
+      "path": "csvtextfieldparser/1.1.1",
+      "hashPath": "csvtextfieldparser.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "path": "microsoft.csharp/4.4.0",
+      "hashPath": "microsoft.csharp.4.4.0.nupkg.sha512"
+    },
+    "Microsoft.VisualBasic/10.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ENobE5XkkqpFA+KwOuEPkkkE4PLLxmsJutxa3eBbh99C34HQa6CcKkCSHkhtD8Zl4CxDmqSxPMGGOUTZUqsKDw==",
+      "path": "microsoft.visualbasic/10.3.0",
+      "hashPath": "microsoft.visualbasic.10.3.0.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dkmh/ySlwnXJp/1qYP9uyKkCK1CXR/REFzl7abHcArxBcV91mY2CgrrzSRA5Z/X4MevJWwXsklGRdR3A7K9zbg==",
+      "path": "system.reflection.typeextensions/4.4.0",
+      "hashPath": "system.reflection.typeextensions.4.4.0.nupkg.sha512"
+    }
+  }
+}
